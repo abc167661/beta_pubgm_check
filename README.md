@@ -1,2 +1,3 @@
 pubgm体验服获链接
-![Proof](bot.png)
+
+![如图](bot.png)
